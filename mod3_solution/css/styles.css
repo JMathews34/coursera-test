@@ -1,0 +1,25 @@
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+  font-family: cursive;
+}
+.nav-link {
+	background: antiquewhite;
+	border: 1px solid black;
+	margin: 0px -13px 0px;
+}
+nav > .container-fluid {
+	border: 3px solid black;
+	margin-top: -13px;
+	background: #999;
+}
+.title {
+	text-transform: bold;
+}
+a.navbar-brand {
+	font-size: 25px;
+}
+.spacer {
+	background: #999;
+	position: relative;
+}
